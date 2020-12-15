@@ -1,0 +1,136 @@
+html,
+body {
+    background-image: url(../img/studio.jpeg);
+    background-size: cover;
+    background-repeat: repeat-y;
+    width: 100%;
+    height: 100%;
+}
+.div{
+    position: absolute;
+    background-color: #8b008bab;
+    height: 100%;
+    width: 100%;
+    z-index: 1;
+}
+.border {
+    border: 2px solid red;
+}
+
+/* .color {
+    background-color: #2680a6c7;
+} */
+
+.divnav {
+    height: 76px;
+
+}
+
+.inner-header {
+    width: 1280px;
+    height: 76px;
+}
+
+.height {
+    height: 76px;
+}
+
+.nav {
+    width: 640px;
+    padding: 7px 25px;
+}
+
+/* .global {
+    height: 1080px;
+
+} */
+
+a {
+    text-decoration: none;
+}
+
+.nav-hash {
+    float: left;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    letter-spacing: 1;
+    position: relative;
+    color: aliceblue;
+    text-transform: uppercase;
+
+}
+
+.nav-hash2 {
+    float: right;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    letter-spacing: 1;
+    position: relative;
+}
+
+h2 {
+    text-decoration: none;
+    float: left;
+    font-family: 'Sacramento', cursive;
+    font-size: 40px;
+    letter-spacing: 0;
+    color: #FF884D;
+}
+
+h3 {
+    font-family: 'Sacramento', cursive;
+    color: #FF884D;
+}
+
+h4 {
+    font-family: 'Sacramento', cursive;
+
+    color: #FFFADE;
+}
+
+.nav-link,
+.colortitle {
+    color: #FFFADE
+}
+
+.title-site {
+    margin-left: 15px;
+}
+
+.bg-mag {
+    
+    height: 100%;
+
+}
+
+.back {
+   
+    height: 100%;
+}
+
+.lmarge {
+    margin-left: 120px !important;
+}
+
+.lmarge2 {
+    margin-left: 75px !important;
+}
+
+.rmarge {
+    margin-right: 200px !important;
+}
+
+.tmarge {
+    margin-top: 40px;
+}
+
+.haut {
+    margin-top: 150px;
+}
+
+hr {
+    height: 3px !important;
+    margin-top: 70px !important;
+    background-color: white !important;
+    border: 10px;
+}
